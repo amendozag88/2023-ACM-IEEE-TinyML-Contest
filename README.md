@@ -2,7 +2,9 @@
 
 # RiceU team TinyML contest 2023 submission
 
-This contains the submission for the 2023 ACM/IEEE TinyML Design Contest at ICCAD. 
+This contains the submission for the 2023 ACM/IEEE TinyML Design Contest at ICCAD. This submission won 4th place in the general classification, and best score for F_beta and generalization with scores:
+
+Final Score: 127.7578649, F_beta: 0.978048853,	Generalization: 0.894736842,	Latency: 7.996,	Flash: 25.19 -- [Final results](https://tinymlcontest.github.io/TinyML-Design-Contest-2023/Winners.html)
 
 ## Description
 
