@@ -15,7 +15,7 @@ The repository contains:
 
 ## Getting Started
 
-Explain how to get started with your project. Include any necessary steps for setup and configuration.
+Follow the instructions below for training or deployment:
 
 ### Prerequisites
 
